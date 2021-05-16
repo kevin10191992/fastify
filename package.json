@@ -1,0 +1,20 @@
+{
+  "name": "fastifyweb",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "fastify": "^3.15.1",
+    "fastify-autoload": "^3.7.1",
+    "fastify-plugin": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
